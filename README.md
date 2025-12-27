@@ -1,0 +1,2 @@
+# myfirstAIproj
+AI project
